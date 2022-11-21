@@ -4,6 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
+Project Outlook :-
+https://user-images.githubusercontent.com/67652657/203075464-12fbc19b-761c-48a4-9fb0-85ac56afa4b7.mp4
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
